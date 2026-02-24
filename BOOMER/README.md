@@ -1,6 +1,7 @@
 # BOOMER *by* Andrea922
 
 Lightweight and minimal theme with big typography for boomers :) inspired by "M" theme (by tenlevels)
+
 For [spruceOS](https://github.com/spruceUI/spruceOS) devices Miyoo A30 and Miyoo Flip v2.
 
 
