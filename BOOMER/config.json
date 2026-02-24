@@ -1,0 +1,78 @@
+{
+    "showBottomBar": false,
+    "name": "BIIIG",
+    "author": "Andrea922",
+    "description": "A very minimal theme with big text for boomers :)",
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#ffffff",
+        "font": "font.ttf",
+        "size": 18,
+        "textAlign": "right",
+        "offsetX": -32,
+        "offsetY": 0,
+        "fixed": true
+    },
+    "title": {
+        "font": "font.ttf",
+        "size": 22,
+        "color": "#fff"
+    },
+    "hint": {
+        "font": "font.ttf",
+        "size": 22,
+        "color": "#ffffff"
+    },
+    "currentpage": {
+        "color": "#ffffff"
+    },
+    "total": {
+        "color": "#ffffff"
+    },
+    "grid": {
+        "font": "font.ttf",
+        "grid1x4": 128,
+        "grid3x4": 128,
+        "color": "#ffffff",
+        "selectedcolor": "#ffffff"
+    },
+    "list": {
+        "font": "font.ttf",
+        "size": 24,
+        "color": "#ffffff",
+        "selectedcolor": "#000000"
+    },
+    "recentsEnabled": false,
+    "topBarInitialXOffset": 12,
+    "setTopBarTextToGameSelection": true,
+    "fullScreenGridGameMenuResizeType": "FIT",
+    "mainMenuTitle": "",
+    "skipMainMenu": false,
+    "mergeMainMenuAndGameMenu": false,
+    "showExtrasInSystemSelectMenu": false,
+    "gameSelectionViewType": "TEXT_ONLY",
+    "topBarFontSize": 40,
+    "batteryPercentFontSize": 45,
+    "listFontSize": 32,
+    "gridSingleRowFontSize": 128,
+    "gridMultiRowFontSize": 48,
+    "gameSystemSelectColCount": 1,
+    "systemSelectShowSelectedBgGridMode": false,
+    "systemSelectGridResizeType": "NONE",
+    "gridSystemSelectImgWidth": 96,
+    "systemSelectViewType": "GRID",
+    "singleRowGridTextYOffset": 0,
+    "multiRowGridTextYOffset": 0,
+    "gameSystemSelectRowCount": 1,
+    "descListFontSize": 32,
+    "messageFontSize": 32,
+    "descriptionFontSize": 16,
+    "displayBatteryIcon": false,
+    "displayBatteryPercent": true,
+    "displayVolumeNumbers": false,
+    "gridSystemSelectImgHeight": 96,
+    "fullScreenGridSystemSelectMenuResizeType": "NONE",
+    "gridBgOffsetToImageOffset": true,
+    "mainMenuColCount": 1,
+    "gameSwitcherResizeType": "FIT"
+}
